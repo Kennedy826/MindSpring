@@ -108,7 +108,7 @@ const Navbar = () => {
             {/* logo */}
             <div> 
                 <a href="/">
-                <img src="/src/assets/footer-logo.svg" alt="logo"/></a>
+                <img src="/footer-logo.svg" alt="logo"/></a>
             </div>
 
             {/* navitems */}
