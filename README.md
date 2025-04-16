@@ -10,7 +10,7 @@ npm (Node Package Manager) or yarn
 Steps to Download or Fork the Project <br>
 Clone the Repository
 
-git clone https://github.com/your-username/your-project.git <br>
+git clone https://github.com/Kennedy826/MindSpring.git <br>
 cd your-project
 
 Install Dependencies <br>
